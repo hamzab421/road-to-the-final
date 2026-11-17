@@ -1,0 +1,1 @@
+{"name":"road-to-the-final","version":"1.0.0","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs","dev":"node scripts/build.mjs && node scripts/dev.mjs"},"engines":{"node":">=22.13.0"}}
